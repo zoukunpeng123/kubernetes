@@ -10,3 +10,4 @@ kubernetes自定义资源指标 部署metrics prometheus adapter
   6.1： 先apply那个custom-metrics-config-map.yaml
   6.2： 然后部署custom-metrics-apiserver-deployment.yaml
   6.3： 最后将剩下yaml 文件全部apply
+7. 最后部署granafa 的yaml 
